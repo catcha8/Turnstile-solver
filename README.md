@@ -4,9 +4,9 @@ Turnstile and Challenge
 
 **Free demo on discord or telegram**
 
-Discord: catcha80 or [https://discord.gg/qccqwcTt9Q](https://discord.gg/qccqwcTt9Q)
+**Discord:** [https://discord.gg/qccqwcTt9Q](https://discord.gg/qccqwcTt9Q)
 
-Telegram: catcha80
+**Telegram:** [https://t.me/NSLSolver](https://t.me/NSLSolver)
 
-DEMO: https://www.youtube.com/watch?v=KQrlVpK_CJo
+**DEMO:** https://www.youtube.com/watch?v=KQrlVpK_CJo
 
