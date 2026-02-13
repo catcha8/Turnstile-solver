@@ -1,12 +1,15 @@
 # Cloudflare Turnstile Solver (Requests based)
 
-<img width="1226" height="1248" alt="turnstile" src="https://github.com/user-attachments/assets/d3e1a3c5-8b81-497a-ad00-1fd629f8d4c3" />
+<img width="776" height="533" alt="image" src="https://github.com/user-attachments/assets/7614097c-b6b3-466c-99c8-b5a5c9f21846" />
+
 
 **Free demo on discord or telegram**
 
-**Discord:** [https://discord.gg/qccqwcTt9Q](https://discord.gg/qccqwcTt9Q)
+**Discord:** [https://discord.gg/fwrvaMG755](https://discord.gg/fwrvaMG755)
 
 **Telegram:** [https://t.me/NSLSolver](https://t.me/NSLSolver)
 
-**DEMO:** https://www.youtube.com/watch?v=KQrlVpK_CJo
+**DEMOS:** 
+https://www.youtube.com/watch?v=KQrlVpK_CJo
+https://www.youtube.com/watch?v=VcsCy5F7OPU
 
