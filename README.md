@@ -1,5 +1,7 @@
 # Cloudflare Turnstile Solver (Requests based)
 
+# Register at [https://nslsolver.com](https://nslsolver.com)
+
 <img width="776" height="533" alt="image" src="https://github.com/user-attachments/assets/7614097c-b6b3-466c-99c8-b5a5c9f21846" />
 
 
