@@ -7,7 +7,7 @@
 
 **Free demo on discord or telegram**
 
-**Discord:** [https://discord.gg/fwrvaMG755](https://discord.gg/fwrvaMG755)
+**Discord:** [https://discord.gg/nsl-solver](https://discord.gg/nsl-solver)
 
 **Telegram:** [https://t.me/NSLSolver](https://t.me/NSLSolver)
 
